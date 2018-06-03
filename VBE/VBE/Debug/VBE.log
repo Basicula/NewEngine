@@ -1,0 +1,10 @@
+﻿  main.cpp
+d:\study\render\vbe\vbe\main.cpp(56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\study\render\vbe\vbe\main.cpp(57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\study\render\vbe\vbe\main.cpp(61): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\study\render\vbe\vbe\main.cpp(62): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\study\render\vbe\vbe\main.cpp(66): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\study\render\vbe\vbe\main.cpp(67): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\study\render\vbe\vbe\main.cpp(72): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\study\render\vbe\vbe\main.cpp(375): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  VBE.vcxproj -> D:\Study\Render\VBE\Debug\VBE.exe
